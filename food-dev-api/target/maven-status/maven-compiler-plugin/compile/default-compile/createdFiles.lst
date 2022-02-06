@@ -1,0 +1,12 @@
+com\yuancheng\config\Swagger2.class
+com\yuancheng\controller\ItemsController.class
+com\yuancheng\controller\PassportController.class
+com\yuancheng\controller\IndexController.class
+com\yuancheng\aspect\ServiceLogAspect.class
+com\yuancheng\config\CorsConfig.class
+com\yuancheng\controller\AddressController.class
+com\yuancheng\controller\BaseController.class
+com\yuancheng\controller\ShopcatController.class
+com\yuancheng\Application.class
+com\yuancheng\controller\HelloController.class
+com\yuancheng\controller\StuFooController.class

@@ -1,0 +1,13 @@
+com\yuancheng\mapper\ItemsMapperCustom.class
+com\yuancheng\mapper\ItemsImgMapper.class
+com\yuancheng\mapper\UserAddressMapper.class
+com\yuancheng\mapper\ItemsParamMapper.class
+com\yuancheng\mapper\ItemsCommentsMapper.class
+com\yuancheng\mapper\UsersMapper.class
+com\yuancheng\mapper\CategoryMapper.class
+com\yuancheng\mapper\ItemsMapper.class
+com\yuancheng\mapper\ItemsSpecMapper.class
+com\yuancheng\my\mapper\MyMapper.class
+com\yuancheng\mapper\CarouselMapper.class
+com\yuancheng\mapper\StuMapper.class
+com\yuancheng\mapper\CategoryMapperCustom.class

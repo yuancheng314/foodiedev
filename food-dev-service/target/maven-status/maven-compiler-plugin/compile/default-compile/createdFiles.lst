@@ -1,0 +1,14 @@
+com\yuancheng\service\CategoryService.class
+com\yuancheng\service\impl\TestTransServiceImpl.class
+com\yuancheng\service\ItemService.class
+com\yuancheng\service\AddressService.class
+com\yuancheng\service\CarouselService.class
+com\yuancheng\service\impl\CategoryServiceImpl.class
+com\yuancheng\service\impl\ItemServiceImpl.class
+com\yuancheng\service\impl\UserServiceImpl.class
+com\yuancheng\service\impl\StuServiceImpl.class
+com\yuancheng\service\TestTransService.class
+com\yuancheng\service\StuService.class
+com\yuancheng\service\UserService.class
+com\yuancheng\service\impl\CarouselServiceImpl.class
+com\yuancheng\service\impl\AddressServiceImpl.class
