@@ -20,9 +20,11 @@ G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\com\yuancheng\utils\PagedGr
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\RandomCodeStrategy.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\com\yuancheng\utils\JsonUtils.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\InvalidSystemClock.java
+G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\com\yuancheng\enums\OrderStatusEnum.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\Sid.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\com\yuancheng\utils\CookieUtils.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\utils\Ip.java
+G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\com\yuancheng\enums\PayMethod.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\Test.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\DayCode.java
 G:\JAVA_CODE\foodiedev\food-dev-common\src\main\java\org\n3r\idworker\strategy\DefaultWorkerIdStrategy.java

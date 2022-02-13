@@ -125,8 +125,8 @@ public class AddressController {
     }
 
     @ApiOperation(value = "用户设置默认地址", notes = "用户设置默认地址", httpMethod = "POST")
-    @PostMapping("/setDefault")
-    public IMOOCJSONResult setDefault(
+    @PostMapping("/setDefalut")
+    public IMOOCJSONResult setDefalut(
             @RequestParam String userId,
             @RequestParam String addressId
     ) {

@@ -2,12 +2,15 @@ G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\Catego
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\ItemsSpecMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\ItemsMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\CategoryMapper.java
+G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\OrderItemsMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\StuMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\ItemsMapperCustom.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\ItemsParamMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\UsersMapper.java
+G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\OrdersMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\UserAddressMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\CarouselMapper.java
+G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\OrderStatusMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\ItemsImgMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\my\mapper\MyMapper.java
 G:\JAVA_CODE\foodiedev\food-dev-mapper\src\main\java\com\yuancheng\mapper\ItemsCommentsMapper.java
